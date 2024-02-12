@@ -8,3 +8,4 @@ import math
     c=a+b
     d=a*b
     e=args*a
+    f=char+b
