@@ -9,3 +9,4 @@ import math
     d=a*b
     e=args*a
     f=char+b
+    g=args/a
