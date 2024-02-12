@@ -9,3 +9,4 @@ import math
     d=a*b
     e=a/b
     f=a-b
+    g=c+d
