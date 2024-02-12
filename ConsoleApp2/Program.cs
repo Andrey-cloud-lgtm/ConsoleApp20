@@ -10,3 +10,4 @@ import math
     e=args*a
     f=char+b
     g=args/a
+    h=char-b
